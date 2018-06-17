@@ -1,0 +1,65 @@
+    body {
+    	background-color: pink;
+    }
+
+	h2{
+		background-image: none;
+		width:80%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-radius: 8px;
+	}
+
+
+	p{
+		background-color:#FFFFF5;
+		width:80%;
+		margin-left: auto; 
+		margin-right: auto;
+		border-radius: 8px;
+	}
+
+	header{
+		text-align: center;
+		width: 80%; 
+		margin-left: auto; 
+		margin-right: auto;
+	}
+	div.header{
+		background-image: none;
+		width: 80%;
+		height: 100px;
+		font-style: italic;
+		font-size: 32px;
+        margin-left: auto; 
+        margin-right: auto;
+        color:white;
+        text-shadow: 2px 2px 5px red;
+        border-radius: 8px;
+	}
+
+    div.col{
+	    background-image: none;
+	    color: pink;
+	    float:center;width: 75%;
+		text-align:center;
+		font-size: 23px;
+		padding: 20px;
+        margin-left: auto; 
+        margin-right: auto;
+        border-radius: 8px;
+    }
+
+    strong{
+        	color: purple;
+        }
+
+        .img1 {
+        	width: 400px;
+        	height: 400px;
+        }
+
+        .button {
+			border-radius: 8px;
+			cursor: pointer;
+		}
